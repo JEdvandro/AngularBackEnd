@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": "12000.80"
+    },
+    {
+      "name": "Celular A20",
+      "price": "1350.00",
+      "id": 3
+    },
+    {
+      "name": "geladeira",
+      "price": "2300.00",
+      "id": 4
+    }
+  ]
+}
